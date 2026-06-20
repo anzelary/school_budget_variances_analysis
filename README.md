@@ -34,11 +34,11 @@ This project analyses actual income and expenditure against the approved school 
 
 ## Preview (examples)
 ## Dashboard
-![Dashboard Screenshot](pictures/dashboard.jpg)
+![Dashboard Screenshot](Images/dashboard.jpg)
 ## Income Variance Analysis
-![Dashboard Screenshot](images/income_analysis.jpg)
+![Dashboard Screenshot](Images/income_analysis.jpg)
 ## Monthly expenses by category
-![Dashboard Screenshot](images/stacked_bar.jpg)
+![Dashboard Screenshot](Images/stacked_bar.jpg)
 ## Heatmap of Variances
-![Dashboard Screenshot](images/variances_heatmap.jpg)
+![Dashboard Screenshot](Images/variances_heatmap.jpg)
 
