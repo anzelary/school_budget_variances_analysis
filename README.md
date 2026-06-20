@@ -23,14 +23,14 @@ This project analyses actual income and expenditure against the approved school 
 - `transactions.csv` – actual transactions
 
 ## Skills Demonstrated
-- Loading and processing multiple datasets using pandas
+- Loading and processing multiple datasets using `pandas`
 - Data preparation
 - Building reusable functions
 - Merging datasets
 - Implementing logic for filtering and grouping data
-- Data Visualisation using Matplotlib and Seaborn
-- KPI dashboard layout using Matplotlib GridSpec
-- Automated Excel export using openpyxl and pd.ExcelWriter
+- Data Visualisation using `Matplotlib` and `Seaborn`
+- KPI dashboard layout using `Matplotlib GridSpec`
+- Automated Excel export using `openpyxl` and `pd.ExcelWriter`
 
 ## Preview (examples)
 ## Dashboard
