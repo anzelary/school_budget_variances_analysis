@@ -1,0 +1,90 @@
+﻿NominalCode,Code,NominalName,Type,Category,Budget
+510100 - DFE Revenue Grants,510100,DFE Revenue Grants,Income,DfE Revenue Grants,Funding
+510200 - Pupil Premium,510200,Pupil Premium,Income,Pupil Premium,Funding
+510250 - Universal Inf Free School Meals,510250,Universal Inf Free School Meals,Income,Universal Inf Free School Meals,Funding
+510400 - PE & Sport Grants,510400,PE & Sport Grants,Income,PE & Sport Grants,Funding
+510950 - Other DfE revenue grants,510950,Other DfE revenue grants,Income,Other DfE revenue grants,Funding
+520100 - LA - SEN,520100,LA - SEN,Income,LA - SEN,Funding
+520200 - LA - Other grants,520200,LA - Other grants,Income,LA - Other grants,Funding
+525300 - Catering income from pupils,525300,Catering income from pupils,Income,Catering income,Income
+525400 - Educational trips & visits,525400,Educational trips & visits,Income,Trips income,Income
+530100 - Hire of facilities,530100,Hire of facilities,Income,Letting income,Income
+530200 - Catering inc (visitors & staf),530200,Catering inc (visitors & staf),Income,Catering income,Income
+530400 - Sale of uniforms,530400,Sale of uniforms,Income,Sale of uniforms,Income
+530580 - Parental income from wraparound provision,530580,Parental income from wraparound provision,Income,Wraparound care income,Income
+530650 - Sale of goods or services,530650,Sale of goods or services,Income,Other income,Income
+612100 - Teachers Wages and salaries,612100,Teachers Wages and salaries,Expenses,Teachers,Staff costs
+612200 - Teachers Employers NI,612200,Teachers Employers NI,Expenses,Teachers,Staff costs
+612300 - Teaching staff - Pension,612300,Teaching staff - Pension,Expenses,Teachers,Staff costs
+615100 - Teaching Assistants - Wages and Salaries,615100,Teaching Assistants - Wages and Salaries,Expenses,Teaching Assistants,Staff costs
+615200 - Teaching Assistants - Employers NI,615200,Teaching Assistants - Employers NI,Expenses,Teaching Assistants,Staff costs
+615300 - Teaching Assistants - Pension,615300,Teaching Assistants - Pension,Expenses,Teaching Assistants,Staff costs
+625100 - FInance&Admin - Wages and salaries,625100,FInance&Admin - Wages and salaries,Expenses,FInance&Admin,Staff costs
+625200 - Finance&Admin - Employers NI,625200,Finance&Admin - Employers NI,Expenses,FInance&Admin,Staff costs
+625300 - Finance&Admin - Pension,625300,Finance&Admin - Pension,Expenses,FInance&Admin,Staff costs
+635100 - Midday Supervisors - Wages and salaries,635100,Midday Supervisors - Wages and salaries,Expenses,Midday Supervisors,Staff costs
+635200 - Midday Supervisors - Employers NI,635200,Midday Supervisors - Employers NI,Expenses,Midday Supervisors,Staff costs
+635300 - Midday Supervisors - Employers Pension,635300,Midday Supervisors - Employers Pension,Expenses,Midday Supervisors,Staff costs
+645100 - Community Facilities Staff - Wages and salaries,645100,Community Facilities Staff - Wages and salaries,Expenses,Community Facilities Staff -,Staff costs
+645200 - Community Facilities Staff - Employers NI,645200,Community Facilities Staff - Employers NI,Expenses,Community Facilities Staff -,Staff costs
+645300 - Community Facilities Staff - Pension,645300,Community Facilities Staff - Pension,Expenses,Community Facilities Staff -,Staff costs
+675500 - Recruitment - teachers,675500,Recruitment - teachers,Expenses,Other staff costs,Staff costs
+675600 - DBS checks - teachers,675600,DBS checks - teachers,Expenses,Other staff costs,Staff costs
+675650 - Staff training - teachers,675650,Staff training - teachers,Expenses,Other staff costs,Staff costs
+675651 - Staff training - others,675651,Staff training - others,Expenses,Other staff costs,Staff costs
+675700 - Other IndEmp Expense - teachers,675700,Other IndEmp Expense - teachers,Expenses,Other staff costs,Staff costs
+710100 - Building Repair and Maintenance,710100,Building Repair and Maintenance,Expenses,Premises ,Expenses
+720100 - Gas,720100,Gas,Expenses,Premises ,Expenses
+720300 - Electricity,720300,Electricity,Expenses,Premises ,Expenses
+730100 - Cleaning contracts,730100,Cleaning contracts,Expenses,Premises ,Expenses
+730200 - Cleaning equipment and materials,730200,Cleaning equipment and materials,Expenses,Premises ,Expenses
+730300 - Window Cleaning,730300,Window Cleaning,Expenses,Premises ,Expenses
+735200 - Operating Leases: Photocopiers,735200,Operating Leases: Photocopiers,Expenses,Premises ,Expenses
+735300 - Operating Leases: Telephony,735300,Operating Leases: Telephony,Expenses,Premises ,Expenses
+740100 - Security Alarms / CCTV Services,740100,Security Alarms / CCTV Services,Expenses,Premises ,Expenses
+750200 - Before and After School clubs,750200,Before and After School clubs,Expenses,Premises ,Expenses
+760100 - Grounds Maintenance,760100,Grounds Maintenance,Expenses,Premises ,Expenses
+760150 - Water and Sewerage,760150,Water and Sewerage,Expenses,Premises ,Expenses
+760250 - Refuse Removal,760250,Refuse Removal,Expenses,Premises ,Expenses
+760300 - Hygiene Supplies & Services,760300,Hygiene Supplies & Services,Expenses,Premises ,Expenses
+760350 - Health & Safety,760350,Health & Safety,Expenses,Premises ,Expenses
+760400 - Electrical Service Contract,760400,Electrical Service Contract,Expenses,Premises ,Expenses
+760500 - Appliance Testing,760500,Appliance Testing,Expenses,Premises ,Expenses
+760550 - Fire Alarm and Extinguisher Serv,760550,Fire Alarm and Extinguisher Serv,Expenses,Premises ,Expenses
+760600 - Heating and Air Conditioning,760600,Heating and Air Conditioning,Expenses,Premises ,Expenses
+760650 - Pest Control,760650,Pest Control,Expenses,Premises ,Expenses
+760700 - Other Occupancy costs,760700,Other Occupancy costs,Expenses,Premises ,Expenses
+810100 - Books,810100,Books,Expenses,Educational Supplies,Expenses
+810200 - Curriculum Materials,810200,Curriculum Materials,Expenses,Educational Supplies,Expenses
+810201 - Printing&photocopying - educational,810201,Printing&photocopying - educational,Expenses,Educational Supplies,Expenses
+810350 - Educational Furniture,810350,Educational Furniture,Expenses,Educational Supplies,Expenses
+820100 - Educational IT Equipment,820100,Educational IT Equipment,Expenses,Technology ,Expenses
+820150 - Educational software & licences,820150,Educational software & licences,Expenses,Technology ,Expenses
+820300 - ICT Support contract,820300,ICT Support contract,Expenses,Technology ,Expenses
+820370 - ICT Software (not capital),820370,ICT Software (not capital),Expenses,Technology ,Expenses
+820400 - ICT Licences,820400,ICT Licences,Expenses,Technology ,Expenses
+820420 - ICT Broadband,820420,ICT Broadband,Expenses,Technology ,Expenses
+820550 - ICT Hosting Fees,820550,ICT Hosting Fees,Expenses,Technology ,Expenses
+830100 - School Trips - Travel cost,830100,School Trips - Travel cost,Expenses,School Trips ,Expenses
+830150 - School trips; accommodation and entrance costs,830150,School trips; accommodation and entrance costs,Expenses,School Trips ,Expenses
+830151 - Swimming,830151,Swimming,Expenses,Swimming ,Expenses
+835100 - Subscriptions,835100,Subscriptions,Expenses,Administration ,Expenses
+835120 - TV licences,835120,TV licences,Expenses,Administration ,Expenses
+835200 - Admin Supplies & Stationery,835200,Admin Supplies & Stationery,Expenses,Administration ,Expenses
+835250 - Telephone Costs,835250,Telephone Costs,Expenses,Administration ,Expenses
+835320 - Postage and Carriage,835320,Postage and Carriage,Expenses,Administration ,Expenses
+835500 - Medical,835500,Medical,Expenses,Administration ,Expenses
+835570 - Bank charges,835570,Bank charges,Expenses,Administration ,Expenses
+840100 - Vehicle cost,840100,Vehicle cost,Expenses,Vehicle cost,Expenses
+845200 - Agency teaching assistants,845200,Agency teaching assistants,Expenses,Bought-in supply cover,Expenses
+850100 - Catering contract,850100,Catering contract,Expenses,Catering ,Expenses
+850150 - Catering - Food & Drink,850150,Catering - Food & Drink,Expenses,Catering ,Expenses
+850300 - Catering - Maintenance&Repair,850300,Catering - Maintenance&Repair,Expenses,Catering ,Expenses
+855150 - Financial,855150,Financial,Expenses,Non-educational,Expenses
+855170 - Legal - other,855170,Legal - other,Expenses,Non-educational,Expenses
+855200 - Personnel/HR,855200,Personnel/HR,Expenses,Non-educational,Expenses
+855220 - Payroll,855220,Payroll,Expenses,Non-educational,Expenses
+855350 - Free School Meals - pupil checks,855350,Free School Meals - pupil checks,Expenses,Non-educational,Expenses
+855400 - Educational Psychologist,855400,Educational Psychologist,Expenses,Non-educational,Expenses
+855420 - Speech & Language Therapist,855420,Speech & Language Therapist,Expenses,Non-educational,Expenses
+860100 - Statutory audit fees,860100,Statutory audit fees,Expenses,Non-educational,Expenses
